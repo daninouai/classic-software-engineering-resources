@@ -132,6 +132,7 @@ This repository serves as a one-stop collection of valuable resources for softwa
 ### Books
 - **"Testing Computer Software" by Cem Kaner, Jack Falk, and Hung Q. Nguyen**
   - A foundational book on software testing.
+  - [Buy](https://www.amazon.com/Testing-Computer-Software-2nd-Kaner/dp/0471358460)
 
 - **"xUnit Test Patterns: Refactoring Test Code" by Gerard Meszaros**
   - A guide to improving automated tests.
