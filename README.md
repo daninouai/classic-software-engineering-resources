@@ -194,6 +194,10 @@ This repository serves as a one-stop collection of valuable resources for softwa
   - The foundational document of the Agile movement.
   - [Read Online](https://agilemanifesto.org/)
 
+- "Reflections on Barry W. Boehm's 'A Spiral Model of Software Development and Enhancement'"
+  - A critical exploration of the Spiral Model, emphasizing iterative development and risk management in software projects.  
+  - [Read](./general/NilssonandWilson_Boehm_Finalversion.pdf)
+
 ---
 
 ## DevOps and Security
