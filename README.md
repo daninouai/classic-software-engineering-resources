@@ -81,42 +81,39 @@ This repository serves as a one-stop collection of valuable resources for softwa
 ### Books
 - **"Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides**
   - The classic book on software design patterns.
-  - [Read](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
+  - [Read](general/Erich%20Gamma,%20Richard%20Helm,%20Ralph%20Johnson,%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20(1994).pdf)
 
 - **"Software Architecture in Practice" by Len Bass, Paul Clements, and Rick Kazman**
   - A comprehensive introduction to software architecture.
+  - [Read](general/Software-Architecture-in-Practice-3rd-Edition.pdf)
 
 - **"Head First Design Patterns" by Eric Freeman and Elisabeth Robson**
   - A beginner-friendly guide to design patterns.
-  - [Read](https://www.oreilly.com/library/view/head-first-design-patterns/0596007124/)
+  - [Read](general/Head%20First%20Design%20Patterns%20by%20Eric%20Freeman,%20Elisabeth%20Robson,%20Bert%20Bates,%20Kathy%20Sierra.pdf)
 
 - **"Refactoring: Improving the Design of Existing Code" by Martin Fowler**
   - A practical guide to improving the structure, design, and maintainability of existing code through refactoring.
-  - [Read](https://martinfowler.com/books/refactoring.html)
+  - [Read](general/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.pdf)
 
 - **"Object-Oriented Analysis and Design with Applications" by Grady Booch**
   - A foundational book that explains object-oriented analysis and design (OOAD) principles with practical applications in mind.
-  - [Read](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X)
+  - [Read](general/Object.Oriented.Analysis.and.Design.with.Applications.3rd.Edition.by.Booch.pdf)
 
 - **"Patterns of Enterprise Application Architecture" by Martin Fowler**
   - A comprehensive guide to the patterns and best practices for designing enterprise-level applications.
-  - [Read](https://martinfowler.com/books/eaa.html)
+  - [Read](general/Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Martin%20Fowler.pdf)
 
 - **"Domain-Driven Design: Tackling Complexity in the Heart of Software" by Eric Evans**
   - A deep dive into the principles and techniques of domain-driven design for tackling complex software projects.
-  - [Read](https://www.oreilly.com/library/view/domain-driven-design-tackling/9780321125217/)
+  - [Read](general/Domain%20Driven%20Design%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software%20-%20Eric%20Evans.pdf)
 
 - **"Modern Structured Analysis" by Edward Yourdon**
   - A comprehensive guide to structured analysis and design techniques for building large-scale software systems.
-  - [Read](https://www.amazon.com/Modern-Structured-Analysis-Yourdon/dp/0135603256)
+  - [Buy](https://www.amazon.com/Modern-Structured-Analysis-Edward-Yourdon/dp/0135986249)
 
 - **"Designing the User Interface: Strategies for Effective Human-Computer Interaction" by Ben Shneiderman**
   - A foundational guide to creating user-friendly and efficient interfaces, focusing on principles for optimal human-computer interaction.
-  - [Read](https://www.amazon.com/Designing-User-Interface-Strategies-Interaction/dp/0321537351)
-
-- **"The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations" by Ben Shneiderman**
-  - A guide that classifies tasks based on data types to improve the design and understanding of information visualizations.
-  - [Read](https://www.amazon.com/Eyes-Have-Task-Type-Taxonomy/dp/0952166506)
+  - [Buy](https://www.amazon.com/Designing-User-Interface-Human-Computer-Interaction/dp/013438038X)
 
 ### Articles
 - "The Cathedral and the Bazaar" by Eric S. Raymond
@@ -157,39 +154,39 @@ This repository serves as a one-stop collection of valuable resources for softwa
 ### Books
 - **"The Mythical Man-Month" by Fred Brooks**
   - Timeless lessons on software project management.
-  - [Read](https://www.cs.nott.ac.uk/~pszgmh/mm.pdf)
+  - [Read](general/Brooks%201974%20The%20Mythical%20Man-Month.pdf)
 
 - **"Death March: The Complete Software Developer's Guide to Surviving 'Mission Impossible' Projects" by Edward Yourdon**
   - A guide to surviving high-pressure, mission-critical software projects with practical strategies for developers and managers.
-  - [Read](https://www.amazon.com/Death-March-Complete-Developers-Mission/dp/0131408274)
+  - [Buy](https://www.amazon.com/Death-March-Developers-Surviving-Impossible/dp/0137483104)
 
 - **"Agile Software Development, Principles, Patterns, and Practices" by Robert C. Martin**
   - A comprehensive guide to the principles, patterns, and practices that form the foundation of Agile software development.
-  - [Read](https://www.oreilly.com/library/view/agile-software-development/0131857258/)
+  - [Read](./general/Agile%20Software%20Development,%20Principles,%20Patterns,%20and%20Practices,%202002%20Edition%20by%20Robert%20C.%20Martin-Pearson-9780135974445.pdf)
 
 - **"Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland**
   - A practical guide on how Scrum can be used to improve productivity and project efficiency.
-  - [Read](https://www.scruminc.com/the-art-of-doing-twice-the-work-in-half-the-time/)
+  - [Read](./general/More_Praise_for_Scrum_The_Art_of_Doing_T.pdf)
 
 - **"The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries**
   - A book that applies Lean principles to startups and product development, focusing on creating efficient processes and fast iteration.
-  - [Read](https://www.leanstartup.com/)
+  - [Read](./general/The%20Lean%20Startup%20-%20Erick%20Ries.pdf)
 
 - **"The Agile Samurai: How Agile Masters Deliver Great Software" by Jonathan Rasmusson**
   - A hands-on guide to Agile methodology, explaining how to adopt Agile techniques in real-world scenarios.
-  - [Read](https://www.agilesamurai.com/)
+  - [Read](./general/the-agile-samurai%20%20Book.pdf)
 
 - **"Agile Estimating and Planning" by Mike Cohn**
   - Provides a comprehensive guide to estimating and planning in Agile projects, focusing on practical approaches to deliver value effectively.
-  - [Read](https://www.mountaingoatsoftware.com/books/agile-estimating-and-planning)
+  - [Read](./general/Agile%20Estimating%20and%20Planning%20-%20Autor%20(Mike%20Cohn).pdf)
 
 - **"Managing Successful Projects with PRINCE2" by Axelos**
   - A detailed guide on the PRINCE2 project management methodology, providing best practices for successful project delivery.
-  - [Read](https://www.axelos.com/best-practice-solutions/prince2)
+  - [Read](./general/1_Managing_successful_projects_with_PRINCE2_2017_english_180419.pdf.crdownload)
 
 - **"Extreme Programming Explained: Embrace Change" by Kent Beck**
   - A foundational book on Extreme Programming (XP), discussing how to integrate change and adaptability into the software development lifecycle.
-  - [Read](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
+  - [Read](./general/Extreme-programming-explained-embrace-change-2.pdf)
 
 
 ### Articles
